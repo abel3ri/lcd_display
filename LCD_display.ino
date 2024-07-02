@@ -8,7 +8,7 @@ void setup(){
   lcd.begin(16, 2);
   lcd.print("Hello World!");
   lcd.setCursor(0, 1);
-  lcd.print("https:www.github.com/abel3ri");
+  lcd.print("www.github.com/abel3ri");
 }
 
 void loop(){}
